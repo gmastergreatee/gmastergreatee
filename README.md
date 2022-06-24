@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmastergreatee
 - 👀 I’m interested in web development and desktop utility apps
-- 🌱 I’m currently learning flutter
+- 🌱 Currently using flutter
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
